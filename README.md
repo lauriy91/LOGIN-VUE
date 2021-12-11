@@ -5,11 +5,11 @@ Vue
 NodeJs
 Bootstrap
 
-# Api
+## Api
 https://api.solodata.es/auth
 
-## Author
-## Laura Rodriguez King
+# Author
+# Laura Rodriguez King
 
 # LOGIN-VUE
 Login hecho con NodeJs, Vue, y Bootstrap
